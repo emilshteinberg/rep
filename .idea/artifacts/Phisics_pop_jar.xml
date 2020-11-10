@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Phisics_pop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Phisics_pop_jar</output-path>
+    <root id="archive" name="Phisics_pop.jar">
+      <element id="module-output" name="Phisics_pop" />
+    </root>
+  </artifact>
+</component>
